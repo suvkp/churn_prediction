@@ -1,0 +1,8 @@
+.venv/
+data/
+doc/
+poetry.lock
+pyproject.toml
+test.py
+.DS_Store
+__pycache__/
